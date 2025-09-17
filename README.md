@@ -13,7 +13,7 @@ This is a simple login and register project made for the GDG On Campus – CIT D
 ## Tech Stack
 - HTML  
 - CSS  
-- JavaScript (vanilla)  
+- Javascript
 - Google Identity Services (for Google login)
 
 ## Live Demo 
