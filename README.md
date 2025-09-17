@@ -21,3 +21,6 @@ https://gdgtaskdev.netlify.app/
 
 ## How to Run Locally
 Open `index.html` in a browser or use VS Code Live Server.
+
+## GitHub Repo
+https://github.com/kavin-vk26/gdg_development_task
