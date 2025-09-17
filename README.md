@@ -7,13 +7,17 @@ This is a simple login and register project made for the GDG On Campus – CIT D
 - Register page (dummy) with password check  
 - Dark mode toggle  
 - Google login button  
-- Welcome page after successful login/register  
+- Welcome page after successful login/register
+- Deployed in netlify for live demo
 
 ## Tech Stack
 - HTML  
 - CSS  
 - JavaScript (vanilla)  
 - Google Identity Services (for Google login)
+
+## Live Demo 
+https://gdgtaskdev.netlify.app/
 
 ## How to Run Locally
 Open `index.html` in a browser or use VS Code Live Server.
